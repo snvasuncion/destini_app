@@ -1,6 +1,6 @@
 # destini_app
 
-A new Flutter project.
+Challenge Application from App Brewery
 
 ## Getting Started
 
